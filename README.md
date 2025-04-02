@@ -23,15 +23,8 @@
 <a href="https://github.com/rattyBongo53i/rattyBongo53i">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattyBongo53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/rattyBongo53i/rattyBongo53i">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rattyBongo53i&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/rattyBongo53i/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rattyBongo53i&repo=royal_streams&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
-
-<a href="https://github.com/rattyBongo53i/royal-stream-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rattyBongo53i&repo=royal_streams&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
